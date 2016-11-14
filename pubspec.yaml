@@ -1,0 +1,6 @@
+name: ProfileWidgetFlutter
+version: 0.0.2
+description: My first widget for Flutter language. This widget provide a UI for set a round image (avatar) like as Google's profiles.
+dependencies:
+  flutter:
+    sdk: flutter
