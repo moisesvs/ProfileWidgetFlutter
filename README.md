@@ -1,6 +1,6 @@
-# ProfileWidget
+# ProfileWidgetFlutter
 
-A new flutter project.
+My first widget for Flutter language. This widget provide a UI for set a round image (avatar) like as Google's profiles.
 
 ## Getting Started
 
